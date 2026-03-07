@@ -40,8 +40,9 @@ Owned end-to-end development of a WooCommerce shipping plugin from scratch. Buil
 
 | Recognition | Event | Scale |
 |---|---|---|
-| **1st Place** | Echelon 2026 — National 24hr Hackathon (ISEA & ACM NIT Surat) | 200+ participants |
-| **1st Place** | Web Wonders 3.0 — Nexus NIT Surat | 200+ participants |
+| **1st Place** | Echelon 2026 · National 24hr Hackathon (ISEA & ACM NIT SURAT) | 200+ participants |
+| **1st Place** | Genesis 2026 · ACM x CEV x GDSC | 200+ participants |
+| **1st Place** | Web Wonders 3.0 · Nexus NIT Surat | 200+ participants |
 | **Co-author** | 1st BHASHA Workshop, AACL-IJCNLP 2025 @ IIT Bombay (ACL Anthology) | 2 papers |
 
 ---
