@@ -24,15 +24,13 @@
 
 ## About
 
-I'm an AI undergrad at SVNIT Surat who thrives at the intersection of research and engineering. I've published NLP research at international venues, won national hackathons, and shipped production software — often all in the same semester.
-
-Currently exploring: **scalable backend systems**, **Indic language AI**, and **developer tooling**.
+I'm an AI undergrad at SVNIT Surat who thrives at the intersection of research and engineering. I've published NLP research at international venues, won national hackathons, and shipped production software.
 
 ---
 
 ## Experience
 
-**Software Engineer Intern — Fastrac** `May 2025 – July 2025`
+**Software Engineer Intern · Fastrac** `May 2025 – July 2025`
 
 Owned end-to-end development of a WooCommerce shipping plugin from scratch. Built real-time rate calculation across Express & Instant delivery modes, automated shipment lifecycle management (creation → tracking → cancellation → bulk label printing), and cut checkout latency through strategic caching.
 
