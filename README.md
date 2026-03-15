@@ -19,9 +19,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavdhamecha1@gmail.com)
 [![Email](https://img.shields.io/badge/GitHub.io-808080?style=for-the-badge&logo=github&logoColor=white)](https://manavdhamecha77.github.io/)
 
-![](https://komarev.com/ghpvc/?username=manavdhamecha77&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-</div>
-
 ---
 
 ## About
@@ -92,3 +89,9 @@ Owned end-to-end development of a WooCommerce shipping plugin from scratch. Buil
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+![](https://komarev.com/ghpvc/?username=manavdhamecha77&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+</div>
+
