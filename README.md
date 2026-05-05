@@ -17,6 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manavdhamecha)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manav_dhamecha_77_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavdhamecha1@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=manavdhamecha77&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
@@ -28,7 +29,7 @@ I'm an AI undergrad at SVNIT Surat who thrives at the intersection of research a
 
 ## Experience
 
-**Software Engineer Intern · Fastrac** `May 2025 – July 2025`
+**Software Engineer Intern · Fastrac** ` May 2025 – July 2025`
 
 Owned end-to-end development of a WooCommerce shipping plugin from scratch. Built real-time rate calculation across Express & Instant delivery modes, automated shipment lifecycle management (creation → tracking → cancellation → bulk label printing), and cut checkout latency through strategic caching.
 
@@ -38,6 +39,7 @@ Owned end-to-end development of a WooCommerce shipping plugin from scratch. Buil
 
 | Recognition | Event | Scale |
 |---|---|---|
+| **1st Place** | PowerMind Hackathon 2026 (Adani Group & CDC, NIT SURAT) | 180+ participants |
 | **1st Place** | Echelon 2026 · National 24hr Hackathon (ISEA & ACM NIT SURAT) | 200+ participants |
 | **1st Place** | Genesis 2026 · ACM x CEV x GDSC | 200+ participants |
 | **1st Place** | Web Wonders 3.0 · Nexus NIT Surat | 200+ participants |
@@ -88,6 +90,5 @@ Owned end-to-end development of a WooCommerce shipping plugin from scratch. Buil
 
 ---
 
-![](https://komarev.com/ghpvc/?username=manavdhamecha77&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 </div>
 
